@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Cooking with Love",
+  "base_artist": "近江彼方 (CV.鬼頭明里)",
+  "createdAt": "2025-12-14T07:34:43.321299Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cooking with Love",
+      "artist": "Kanata Konoe (CV: Akari Kito)",
+      "has_synced": true,
+      "path": "select/01_Cooking_with_Love_Kanata_Konoe_(CV__Akari_Kito).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Cooking with Love",
+      "artist": "近江彼方 (CV.鬼頭明里)",
+      "has_synced": false,
+      "path": "select/pl_01_Cooking_with_Love_近江彼方_(CV.鬼頭明里).txt"
+    }
+  ]
+}
